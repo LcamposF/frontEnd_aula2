@@ -42,6 +42,8 @@ A função `sortearNumero`:
   🛠️ Código do Componente
 
   ![image](https://github.com/user-attachments/assets/4c00ad84-5893-4e51-82fd-c1dbeeae50a1)
+![image](https://github.com/user-attachments/assets/12aa9b05-0433-4e7f-ae7a-1d0ed4ed82d2)
+
 
  💻 Resultado no navegador:
 
