@@ -18,7 +18,7 @@ A função `sortearNumero` é responsável por:
 
    🛠️ Código do Componente
   
-  ![image](https://github.com/user-attachments/assets/e8bc4bc6-fd4e-4a98-8373-78add4fac317)
+  ![image](https://github.com/user-attachments/assets/84fec972-20bc-42ec-9b5a-c9cb1a31993c)
 
   💻 Resultado no navegador:
 
